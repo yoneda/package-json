@@ -1,0 +1,12 @@
+{
+  "name": "appname",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/yoneda/appname#readme",
+  "license": "MIT",
+  "author": "yoneda <nsshowdream@gmail.com>",
+  "repository": "github:https://github.com/yoneda/appname",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
